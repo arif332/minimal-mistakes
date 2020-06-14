@@ -2,14 +2,14 @@ This post describes how to host a website/blog using the [minimal-mistake theme]
 
 
 
-Fork/clone github repository `https://github.com/mmistakes/minimal-mistakes` in your github account.
+Fork/clone github repository from `https://github.com/mmistakes/minimal-mistakes` to your github account.
 
 ```bash
 git clone https://github.com/mmistakes/minimal-mistakes
 cd minimal-mistakes
 
 # remore default files
-sudo git rm .editorconfig .gitattributes .github CHANGELOG.md\
+sudo git rm .editorconfig .gitattributes CHANGELOG.md\
 		minimal-mistakes-jekyll.gemspec README.md \
 		screenshot-layouts.png screenshot.png 
 sudo git rm -rf .github docs test 

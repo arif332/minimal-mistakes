@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -95,25 +95,25 @@ analytics:
 author:
   name             : "Arif Hossen"
   avatar           :  "/images/arif_profile_20200615.png"
-  bio              : ""
-  location         : "Bangladesh"
+  bio              : "Cloud Computing, Cloud Native Computing, Big Data Ecosystem"
+  location         : "Dhaka, Bangladesh"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      #url: "mailto:arif@arifhossen.me"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://arifhossen.me"
+      url: "https://arifhossen.me"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://github.com/arif332"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/arif332"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -123,13 +123,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: https://twitter.com/ArifHossen32
+      url: https://twitter.com/ArifHossen32
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: https://github.com/arif332
+      url: https://github.com/arif332
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

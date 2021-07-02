@@ -1,12 +1,8 @@
-# Certified Kubernets Application Developer (CKAD) Exam Tips
-
-
-
 Recently, I have completed Certified Kubernets Application Developer ([CKAD](https://www.cncf.io/certification/ckad/)) certification of [The Linux Foundation](https://www.linuxfoundation.org). Here are a few tips for the exam which might help you as well to crack the same exam.
 
 
 
-## vi/vim setting for yaml file to edit comfortably & efficiently
+## Vi / Vim setting for yaml file to edit comfortably & efficiently
 
 Added few setting in .vimrc profile which help to edit yaml file effectively and efficiently. 
 
